@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CakeStore</string>
+    <string name="delete">Delete</string>
+    <string name="move">Move</string>
+    <string name="demo_price">₹ Price</string>
+    <string name="demo_cake_name">Cake Name</string>
+    <string name="demo_weight">0.00kg</string>
+    <string name="add_to_cart">Add To Cart</string>
+</resources>
